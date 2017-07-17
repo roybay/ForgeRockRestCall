@@ -1,0 +1,6 @@
+i[
+    {
+        "operation" : "remove",
+        "field" : "userCertificate"
+    }
+]

@@ -1,0 +1,3 @@
+USERNAME=<username>
+PASSWORD=<Password>
+HOSTNAME='http://<hostname>:<port>/openidm'
