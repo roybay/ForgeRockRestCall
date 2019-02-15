@@ -11,5 +11,5 @@ $DSHOME/setup \
  --httpsPort 8453 \
  --adminConnectorPort 4444 \
  --baseDN dc=roylab,dc=com \
- --sampleData 100 \
+ --ldifFile $DSHOME/ldif/roylab.ldif \
  --acceptLicense
